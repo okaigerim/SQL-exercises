@@ -6,7 +6,7 @@
 
 - sample-копия.bak - backup базы данных 
 - sample_db_for_lab1.sql запрос для создания базы данных 
-- library-database.sql запрос для создания базы данных библиотеки
+- library_database.sql запрос для создания базы данных библиотеки
 - sql-ex1.sql коллекция запросов
 - sql-ex2.sql коллекция запросов
 
